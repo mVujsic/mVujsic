@@ -1,6 +1,13 @@
-# Hi 👋 I'm Mateja, electrical and software engineer student 👽
+<h1 align="center"> Hi 👋 I'm Mateja,software engineer student 👽 </h1>
+<br>
+
 - 💻 Currently learning and growing my skillset in IoT tech, WebDev, data structures and algorithms. 
+- 📈 "The moment you when you want to quit, is the moment when you need to keep pushing."
+
+<br>
+
 ## 🔥 👊💯 <b>My Github Stats</b>:💯👊🔥 
+
 <br>
 <br>
 <p align = "left">
