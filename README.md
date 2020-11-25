@@ -11,7 +11,7 @@
 ### 💻 Currently learning and growing my skillset in IoT tech, WebDev, data structures and algorithms. 
 ### 📈 <b>"The moment you when you want to quit, is the moment when you need to keep pushing.💪"</b>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✋  Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/mateja.vujsic/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mateja.vujsic/" height="30" width="40" /></a>
 </p>
