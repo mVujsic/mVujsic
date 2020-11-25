@@ -1,4 +1,10 @@
-<h1 align="center"> Hi 👋 I'm Mateja,software engineer student 👽 </h1>
+<h1 align="center"> Hi 👋 I'm Mateja, software engineer student 👽 </h1>
+<br>
+
+<p align="left">
+  <img src= "https://github.com/mVujsic/mVujsic/blob/master/img/icon.png">
+</p>
+
 <br>
 
 - 💻 Currently learning and growing my skillset in IoT tech, WebDev, data structures and algorithms. 
