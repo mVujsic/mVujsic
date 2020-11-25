@@ -10,7 +10,6 @@
 
 ### 💻 Currently learning and growing my skillset in IoT tech, WebDev, data structures and algorithms. 
 ### 📈 <b>"The moment you when you want to quit, is the moment when you need to keep pushing.💪"</b>
-<p align='center'>🍻📚♦️💻 🔒1️⃣2️⃣4️⃣4️⃣🔒🎸 🔧💪</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
