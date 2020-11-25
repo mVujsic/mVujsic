@@ -1,8 +1,8 @@
 <h1 align="center"> Hi 👋 I'm Mateja, software engineer student 👽 </h1>
 <br>
-<p align="left">
-  <img src= "https://github.com/mVujsic/mVujsic/blob/master/img/icon.png">
-</p>
+<!-- <p align="left">
+   <img src= "https://github.com/mVujsic/mVujsic/blob/master/img/icon.png">
+</p> --!>
 
 
 <h4 align="left">📝 Languages and Tools:</h3>
