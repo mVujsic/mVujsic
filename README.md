@@ -7,8 +7,8 @@
 
 <br>
 
-- 💻 Currently learning and growing my skillset in IoT tech, WebDev, data structures and algorithms. 
-- 📈 "The moment you when you want to quit, is the moment when you need to keep pushing."
+### 💻 Currently learning and growing my skillset in IoT tech, WebDev, data structures and algorithms. 
+### 📈 <b>"The moment you when you want to quit, is the moment when you need to keep pushing."</b>
 
 <br>
 
