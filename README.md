@@ -14,12 +14,8 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/mateja.vujsic/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mateja.vujsic/" height="30" width="40" /></a>
 </p>
-<br>
 
 <details><summary><h1 align="center"> 🔥 👊💯<b>Click for my Github Stats</b>:💯👊🔥 </h1></summary>
-
-<br>
-<br>
 <p align="left">
   <img style="margin-left:30px" src = "https://github-readme-stats.vercel.app/api?username=mVujsic&show_icons=true&theme=merco&hide_border=true&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mVujsic&hide=css&theme=merco&hide_border=true">
