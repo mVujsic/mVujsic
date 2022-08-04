@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 I'm Mateja, software engineer student 👽 </h1>
+<h1 align="center"> Hi 👋 I'm Mateja, software engineering student 👽 </h1>
 <br>
 <!-- <p align="left">
    <img src= "https://github.com/mVujsic/mVujsic/blob/master/img/icon.png">
@@ -20,7 +20,7 @@
 <a href="https://fb.com/https://www.facebook.com/mateja.vujsic/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mateja.vujsic/" height="30" width="40" /></a>
 </p>   
   </td>
-  <td width="50%">
+  <td width="80%">
 
    ### ✋ Last listened on spotify 🔥
    
