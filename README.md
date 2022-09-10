@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 I'm Mateja, software engineering student 👽 </h1>
+<h1 align="center"> Hi 👋 I'm Mateja, electrical engineer 👽 </h1>
 <br>
 <!-- <p align="left">
    <img src= "https://github.com/mVujsic/mVujsic/blob/master/img/icon.png">
