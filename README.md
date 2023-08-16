@@ -7,9 +7,7 @@
 </p>   
   </td>
   <td width="100%">
-
-   ### ✋ Last listened on spotify 🔥
-   
+    
    [![Spotify](https://novatorem-git-master-mvujsic.vercel.app/api/spotify)](https://open.spotify.com/user/maxwell29)
   
   </td>
