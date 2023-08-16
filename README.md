@@ -1,10 +1,6 @@
 <table width="100%"> 
   <tr>
-  <td width="50%">
- <h3 align="left">✋  Connect with me:</h3>
- <p align="left">
-<a href="https://fb.com/https://www.facebook.com/mateja.vujsic/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mateja.vujsic/" height="30" width="40" /></a>
-</p>   
+
   </td>
   <td width="100%">
     
